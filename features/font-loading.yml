@@ -22,7 +22,6 @@ compat_features:
   - api.FontFace.variationSettings
   - api.FontFace.weight
   - api.FontFaceSet
-  - api.FontFaceSet.FontFaceSet
   - api.FontFaceSet.worker_support
   - api.FontFaceSet.add
   - api.FontFaceSet.check
@@ -45,3 +44,4 @@ compat_features:
   - api.FontFaceSetLoadEvent.FontFaceSetLoadEvent
   - api.FontFaceSetLoadEvent.worker_support
   - api.FontFaceSetLoadEvent.fontfaces
+  - api.WorkerGlobalScope.fonts
